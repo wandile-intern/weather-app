@@ -15,7 +15,7 @@ Clean and responsive design for desktop and mobile.
 
 ## Demo
 
-Live demo available at:
+Live demo available at: https://wandile-intern.github.io/weather-app/
 
 ## Technologies Used
 
